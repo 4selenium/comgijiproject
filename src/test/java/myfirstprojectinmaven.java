@@ -16,6 +16,7 @@ public class myfirstprojectinmaven {
         strList.add(13);
         strList.add(0);
         strList.add(7);
+        //this is just a commit please
 
 
 
