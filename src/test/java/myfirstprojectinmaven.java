@@ -9,7 +9,7 @@ public class myfirstprojectinmaven {
 
     @Test
     public void myTest1(){
-        System.out.println("Hello ");
+        System.out.println("Hello");
         List<Integer> strList = new ArrayList<Integer>();
         strList.add(5);
         strList.add(6);
